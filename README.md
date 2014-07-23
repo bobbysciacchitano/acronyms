@@ -20,5 +20,7 @@ WET
 Write everything twice
 
 SME
+
 Self Modifying Excuses
+
 Self Modifying Executables
